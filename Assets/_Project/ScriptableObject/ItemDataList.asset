@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62b12768c642e93449bca4658fa44cf3, type: 3}
+  m_Name: ItemDataList
+  m_EditorClassIdentifier: 
+  Items:
+  - ID: 0
+    ItemPrefab: {fileID: 7793470783453752940, guid: c35a4cb913c840444bbfe0b7251ee66f, type: 3}
+    Sprite: {fileID: 21300000, guid: 0b9a22cfee61d5c4e909149fc827c682, type: 3}
+    Count: 1
+  - ID: 1
+    ItemPrefab: {fileID: 4131209427679629910, guid: 506ef2b27b330ef43878385ea70e0fc6, type: 3}
+    Sprite: {fileID: 21300000, guid: 9a4c1be9f67f8404b907bf7576c19f3e, type: 3}
+    Count: 1
+  - ID: 2
+    ItemPrefab: {fileID: 1957747861922474458, guid: 2b8b3d04c7082c5459c7668f5ed9c4ca, type: 3}
+    Sprite: {fileID: 21300000, guid: bec2cc41971e3204facb07f56f627f40, type: 3}
+    Count: 1
+  - ID: 3
+    ItemPrefab: {fileID: 7259306083375990794, guid: 7c7709415171a3540b1332e54afa1902, type: 3}
+    Sprite: {fileID: 21300000, guid: 010e0b558b37b76438922d5df87f933a, type: 3}
+    Count: 1
+  - ID: 4
+    ItemPrefab: {fileID: 88471088613710601, guid: 81b2d329bd0ffe44091e358668bdb629, type: 3}
+    Sprite: {fileID: 21300000, guid: ea84565e46efd69419858d1b04767e71, type: 3}
+    Count: 1
+  - ID: 5
+    ItemPrefab: {fileID: 8871314889973720934, guid: 159b5b295b8c817428bf13943bb9a7d0, type: 3}
+    Sprite: {fileID: 21300000, guid: 47e8314bf2b486a4583915cfe4a414f2, type: 3}
+    Count: 1

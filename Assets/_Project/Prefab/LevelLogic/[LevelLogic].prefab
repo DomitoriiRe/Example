@@ -1,0 +1,3467 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &12513763466292447
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7809564687912736824}
+  m_Layer: 0
+  m_Name: Glasses_09 (10)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7809564687912736824
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 12513763466292447}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.140276e-17, y: -0.0027869937, z: 6.106145e-17, w: -0.9999961}
+  m_LocalPosition: {x: -0.051627897, y: 3.1252937, z: 0.6202286}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3715521128708924181}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &57261394584104583
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 659164499737733732}
+  m_Layer: 0
+  m_Name: Night_vision_goggles (8)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &659164499737733732
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 57261394584104583}
+  serializedVersion: 2
+  m_LocalRotation: {x: -6.211587e-17, y: 0.014534309, z: -6.0335924e-17, w: 0.9998944}
+  m_LocalPosition: {x: -2.0449169, y: 3.1252937, z: 0.5799999}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2678613025875484178}
+  m_LocalEulerAnglesHint: {x: 0, y: 1.666, z: 0}
+--- !u!1 &101382494975521066
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8028170915901514621}
+  m_Layer: 0
+  m_Name: Glasses_hearts (11)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8028170915901514621
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 101382494975521066}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.140276e-17, y: -0.0027869937, z: 6.106145e-17, w: -0.9999961}
+  m_LocalPosition: {x: 2.0576642, y: 3.0912943, z: 0.51700395}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6214692255417296703}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &229928149302749337
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5745952134416509527}
+  m_Layer: 0
+  m_Name: Hypnotic_glasses (9)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5745952134416509527
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 229928149302749337}
+  serializedVersion: 2
+  m_LocalRotation: {x: -6.324858e-17, y: 0.03348802, z: -5.914746e-17, w: 0.9994391}
+  m_LocalPosition: {x: -2.9849167, y: 3.1552944, z: 0.50307465}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6569673314940792692}
+  m_LocalEulerAnglesHint: {x: 0, y: -356.162, z: 0}
+--- !u!1 &435549822167894432
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2232953732833222069}
+  m_Layer: 0
+  m_Name: Glasses_09 (9)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2232953732833222069
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 435549822167894432}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.140276e-17, y: -0.0027869937, z: 6.106145e-17, w: -0.9999961}
+  m_LocalPosition: {x: -1.011614, y: 3.1252937, z: 0.6255796}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3715521128708924181}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &548463782391300052
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 582667702794130367}
+  m_Layer: 0
+  m_Name: Hypnotic_glasses (12)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &582667702794130367
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 548463782391300052}
+  serializedVersion: 2
+  m_LocalRotation: {x: -6.324858e-17, y: 0.03348802, z: -5.914746e-17, w: 0.9994391}
+  m_LocalPosition: {x: 1.8950844, y: 3.1552944, z: 0.50307465}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6569673314940792692}
+  m_LocalEulerAnglesHint: {x: 0, y: -356.162, z: 0}
+--- !u!1 &579479276138544813
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1103278277810073575}
+  m_Layer: 0
+  m_Name: Glasses_with_nose
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1103278277810073575
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 579479276138544813}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.271111e-17, y: -0.024448482, z: 5.9717034e-17, w: -0.99970114}
+  m_LocalPosition: {x: -3.3400002, y: 0.2652588, z: 0.395051}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 9151895051698059012}
+  m_LocalEulerAnglesHint: {x: 0, y: 2.802, z: 0}
+--- !u!1 &886099322384605003
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2827823371077165224}
+  m_Layer: 0
+  m_Name: Glasses_09 (12)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2827823371077165224
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 886099322384605003}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.140276e-17, y: -0.0027869937, z: 6.106145e-17, w: -0.9999961}
+  m_LocalPosition: {x: 1.9083427, y: 3.1252937, z: 0.6093036}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3715521128708924181}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &914545337761055445
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9170059811345669910}
+  m_Layer: 0
+  m_Name: Night_vision_goggles (14)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9170059811345669910
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 914545337761055445}
+  serializedVersion: 2
+  m_LocalRotation: {x: -6.211587e-17, y: 0.014534309, z: -6.0335924e-17, w: 0.9998944}
+  m_LocalPosition: {x: -3.04, y: 0.1374073, z: 0.5799999}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2678613025875484178}
+  m_LocalEulerAnglesHint: {x: 0, y: 1.666, z: 0}
+--- !u!1 &981277405735633354
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 434563585184441961}
+  m_Layer: 0
+  m_Name: Glasses_09 (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &434563585184441961
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 981277405735633354}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.140276e-17, y: -0.0027869937, z: 6.106145e-17, w: -0.9999961}
+  m_LocalPosition: {x: -1.8515991, y: 0.08260155, z: 0.6302617}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3715521128708924181}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1088158096566145141
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9217224738386139988}
+  m_Layer: 0
+  m_Name: Glasses_hearts (5)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9217224738386139988
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1088158096566145141}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.140276e-17, y: -0.0027869937, z: 6.106145e-17, w: -0.9999961}
+  m_LocalPosition: {x: 2.9176514, y: 0.10092068, z: 0.5122103}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6214692255417296703}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1161980487664676191
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8778581606486750993}
+  m_Layer: 0
+  m_Name: Eyelash_glasses (13)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8778581606486750993
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1161980487664676191}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.140276e-17, y: -0.0027869937, z: 6.106145e-17, w: -0.9999961}
+  m_LocalPosition: {x: 2.94716, y: 3.175294, z: 0.36397704}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4697331055388226517}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1305884227491129473
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6651014677860732405}
+  m_Layer: 0
+  m_Name: Glasses_09 (11)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6651014677860732405
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1305884227491129473}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.140276e-17, y: -0.0027869937, z: 6.106145e-17, w: -0.9999961}
+  m_LocalPosition: {x: 0.87835795, y: 3.1252937, z: 0.61504483}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3715521128708924181}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1446504514298746859
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5598879888408085976}
+  m_Layer: 0
+  m_Name: Glasses_with_nose (14)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5598879888408085976
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1446504514298746859}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.271111e-17, y: -0.024448482, z: 5.9717034e-17, w: -0.99970114}
+  m_LocalPosition: {x: 1.4150829, y: 3.2552938, z: 0.395051}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 9151895051698059012}
+  m_LocalEulerAnglesHint: {x: 0, y: 2.802, z: 0}
+--- !u!1 &1961038004326352064
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4697331055388226517}
+  - component: {fileID: 3984043559254570863}
+  - component: {fileID: 8958716113211971922}
+  - component: {fileID: 1542873852970375189}
+  m_Layer: 0
+  m_Name: 6
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4697331055388226517
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1961038004326352064}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0.9999961, z: -0, w: -0.0027869937}
+  m_LocalPosition: {x: -1.949831, y: 2.21, z: -8.8796015}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5505075031979706448}
+  - {fileID: 8645870593953647768}
+  - {fileID: 6444279968122066757}
+  - {fileID: 8759097447417634355}
+  - {fileID: 5425189179438715340}
+  - {fileID: 5513459146080397068}
+  - {fileID: 8766649639587661080}
+  - {fileID: 1968453325120572073}
+  - {fileID: 3166015616910479227}
+  - {fileID: 4861217461135851140}
+  - {fileID: 6131069937437602343}
+  - {fileID: 8802244587687249401}
+  - {fileID: 4013462026431655600}
+  - {fileID: 8778581606486750993}
+  m_Father: {fileID: 9186924672811354902}
+  m_LocalEulerAnglesHint: {x: 0, y: -180.319, z: 0}
+--- !u!65 &3984043559254570863
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1961038004326352064}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 7, y: 5, z: 5}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &8958716113211971922
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1961038004326352064}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c317bb39ec959ab45b894b02c48ae2f9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _shelfItemSpawned: {fileID: 1542873852970375189}
+  _moveDuration: 0.5
+--- !u!114 &1542873852970375189
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1961038004326352064}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9b324728f7662449a0770216592e138, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _shelfIndex: 5
+  _spawnPoints:
+  - {fileID: 5505075031979706448}
+  - {fileID: 8645870593953647768}
+  - {fileID: 6444279968122066757}
+  - {fileID: 8759097447417634355}
+  - {fileID: 5425189179438715340}
+  - {fileID: 5513459146080397068}
+  - {fileID: 8766649639587661080}
+  - {fileID: 1968453325120572073}
+  - {fileID: 3166015616910479227}
+  - {fileID: 4861217461135851140}
+  - {fileID: 6131069937437602343}
+  - {fileID: 8802244587687249401}
+  - {fileID: 4013462026431655600}
+  - {fileID: 8778581606486750993}
+--- !u!1 &2057662356204031633
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4307457123590677891}
+  m_Layer: 0
+  m_Name: Glasses_with_nose (6)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4307457123590677891
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2057662356204031633}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.271111e-17, y: -0.024448482, z: 5.9717034e-17, w: -0.99970114}
+  m_LocalPosition: {x: 1.4150829, y: 0.2652588, z: 0.395051}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 9151895051698059012}
+  m_LocalEulerAnglesHint: {x: 0, y: 2.802, z: 0}
+--- !u!1 &2096746892112833727
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4548038902041029432}
+  m_Layer: 0
+  m_Name: Hypnotic_glasses (2)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4548038902041029432
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2096746892112833727}
+  serializedVersion: 2
+  m_LocalRotation: {x: -6.324858e-17, y: 0.03348802, z: -5.914746e-17, w: 0.9994391}
+  m_LocalPosition: {x: -0.024915695, y: 0.10580635, z: 0.50307465}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6569673314940792692}
+  m_LocalEulerAnglesHint: {x: 0, y: -356.162, z: 0}
+--- !u!1 &2113686844401221826
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5165070428090445043}
+  m_Layer: 0
+  m_Name: Night_vision_goggles (13)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5165070428090445043
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2113686844401221826}
+  serializedVersion: 2
+  m_LocalRotation: {x: -6.211587e-17, y: 0.014534309, z: -6.0335924e-17, w: 0.9998944}
+  m_LocalPosition: {x: 3.285084, y: 3.1252937, z: 0.5799999}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2678613025875484178}
+  m_LocalEulerAnglesHint: {x: 0, y: 1.666, z: 0}
+--- !u!1 &2176042104914832404
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 764318825565856175}
+  m_Layer: 0
+  m_Name: Glasses_with_nose (13)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &764318825565856175
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2176042104914832404}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.271111e-17, y: -0.024448482, z: 5.9717034e-17, w: -0.99970114}
+  m_LocalPosition: {x: 0.5050831, y: 3.2552938, z: 0.395051}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 9151895051698059012}
+  m_LocalEulerAnglesHint: {x: 0, y: 2.802, z: 0}
+--- !u!1 &2268544257916785494
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3166015616910479227}
+  m_Layer: 0
+  m_Name: Eyelash_glasses (8)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3166015616910479227
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2268544257916785494}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.140276e-17, y: -0.0027869937, z: 6.106145e-17, w: -0.9999961}
+  m_LocalPosition: {x: -1.8727657, y: 3.175294, z: 0.39084357}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4697331055388226517}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2380967117315338529
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3068415665064867054}
+  m_Layer: 0
+  m_Name: Glasses_hearts
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3068415665064867054
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2380967117315338529}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.140276e-17, y: -0.0027869937, z: 6.106145e-17, w: -0.9999961}
+  m_LocalPosition: {x: -2.210088, y: 0.10092068, z: 0.5407926}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6214692255417296703}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2386171388286031619
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4521936789029140925}
+  m_Layer: 0
+  m_Name: Glasses_09 (3)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4521936789029140925
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2386171388286031619}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.140276e-17, y: -0.0027869937, z: 6.106145e-17, w: -0.9999961}
+  m_LocalPosition: {x: -0.051627897, y: 0.08260155, z: 0.6202286}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3715521128708924181}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2563088929051797386
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4861217461135851140}
+  m_Layer: 0
+  m_Name: Eyelash_glasses (9)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4861217461135851140
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2563088929051797386}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.140276e-17, y: -0.0027869937, z: 6.106145e-17, w: -0.9999961}
+  m_LocalPosition: {x: -1.0227784, y: 3.175294, z: 0.3861057}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4697331055388226517}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2601460392165874902
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6345700727550550447}
+  m_Layer: 0
+  m_Name: Glasses_with_nose (15)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6345700727550550447
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2601460392165874902}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.271111e-17, y: -0.024448482, z: 5.9717034e-17, w: -0.99970114}
+  m_LocalPosition: {x: 2.6050835, y: 3.2552938, z: 0.395051}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 9151895051698059012}
+  m_LocalEulerAnglesHint: {x: 0, y: 2.802, z: 0}
+--- !u!1 &2605070511583945442
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8359203655641782313}
+  m_Layer: 0
+  m_Name: Glasses_hearts (4)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8359203655641782313
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2605070511583945442}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.140276e-17, y: -0.0027869937, z: 6.106145e-17, w: -0.9999961}
+  m_LocalPosition: {x: 2.0576642, y: 0.10092068, z: 0.51700395}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6214692255417296703}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2608001234856152001
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1968453325120572073}
+  m_Layer: 0
+  m_Name: Eyelash_glasses (7)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1968453325120572073
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2608001234856152001}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.140276e-17, y: -0.0027869937, z: 6.106145e-17, w: -0.9999961}
+  m_LocalPosition: {x: -2.8876655, y: 3.175294, z: 0.39650068}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4697331055388226517}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2637825206018116692
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2886786337144220853}
+  m_Layer: 0
+  m_Name: Hypnotic_glasses (13)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2886786337144220853
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2637825206018116692}
+  serializedVersion: 2
+  m_LocalRotation: {x: -6.324858e-17, y: 0.03348802, z: -5.914746e-17, w: 0.9994391}
+  m_LocalPosition: {x: 2.9550838, y: 3.1552944, z: 0.50307465}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6569673314940792692}
+  m_LocalEulerAnglesHint: {x: 0, y: -356.162, z: 0}
+--- !u!1 &3161948845150361094
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1373001311861249066}
+  m_Layer: 0
+  m_Name: Glasses_09
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1373001311861249066
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3161948845150361094}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.140276e-17, y: -0.0027869937, z: 6.106145e-17, w: -0.9999961}
+  m_LocalPosition: {x: -2.9651382, y: 0.08260155, z: 0.63646865}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3715521128708924181}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3283878000872859434
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9151895051698059012}
+  - component: {fileID: 3628023807668233080}
+  - component: {fileID: 4275116198758839793}
+  - component: {fileID: 4074389501503403424}
+  m_Layer: 0
+  m_Name: 3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9151895051698059012
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3283878000872859434}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 19.43, y: 2.21, z: 8.03}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1103278277810073575}
+  - {fileID: 8914774531842938290}
+  - {fileID: 4200243567870267067}
+  - {fileID: 1681809503843687314}
+  - {fileID: 8859157111071358643}
+  - {fileID: 4307457123590677891}
+  - {fileID: 5009890426247865538}
+  - {fileID: 1977772409535665759}
+  - {fileID: 3992132311506308210}
+  - {fileID: 878789002755906265}
+  - {fileID: 2587815325128662309}
+  - {fileID: 764318825565856175}
+  - {fileID: 5598879888408085976}
+  - {fileID: 6345700727550550447}
+  m_Father: {fileID: 9186924672811354902}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &3628023807668233080
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3283878000872859434}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 7, y: 5, z: 5}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &4275116198758839793
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3283878000872859434}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c317bb39ec959ab45b894b02c48ae2f9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _shelfItemSpawned: {fileID: 4074389501503403424}
+  _moveDuration: 0.5
+--- !u!114 &4074389501503403424
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3283878000872859434}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9b324728f7662449a0770216592e138, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _shelfIndex: 2
+  _spawnPoints:
+  - {fileID: 1103278277810073575}
+  - {fileID: 8914774531842938290}
+  - {fileID: 4200243567870267067}
+  - {fileID: 1681809503843687314}
+  - {fileID: 8859157111071358643}
+  - {fileID: 4307457123590677891}
+  - {fileID: 5009890426247865538}
+  - {fileID: 1977772409535665759}
+  - {fileID: 3992132311506308210}
+  - {fileID: 878789002755906265}
+  - {fileID: 2587815325128662309}
+  - {fileID: 764318825565856175}
+  - {fileID: 5598879888408085976}
+  - {fileID: 6345700727550550447}
+--- !u!1 &3405254456012215611
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6444279968122066757}
+  m_Layer: 0
+  m_Name: Eyelash_glasses (2)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6444279968122066757
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3405254456012215611}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.140276e-17, y: -0.0027869937, z: 6.106145e-17, w: -0.9999961}
+  m_LocalPosition: {x: -1.0227784, y: 0.08830166, z: 0.3861057}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4697331055388226517}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3528853067425240268
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 878789002755906265}
+  m_Layer: 0
+  m_Name: Glasses_with_nose (11)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &878789002755906265
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3528853067425240268}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.271111e-17, y: -0.024448482, z: 5.9717034e-17, w: -0.99970114}
+  m_LocalPosition: {x: -1.7149162, y: 3.2552938, z: 0.395051}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 9151895051698059012}
+  m_LocalEulerAnglesHint: {x: 0, y: 2.802, z: 0}
+--- !u!1 &3605457052617156454
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4597532756786389006}
+  m_Layer: 0
+  m_Name: Night_vision_goggles (7)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4597532756786389006
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3605457052617156454}
+  serializedVersion: 2
+  m_LocalRotation: {x: -6.211587e-17, y: 0.014534309, z: -6.0335924e-17, w: 0.9998944}
+  m_LocalPosition: {x: -2.9499996, y: 3.1252937, z: 0.5799999}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2678613025875484178}
+  m_LocalEulerAnglesHint: {x: 0, y: 1.666, z: 0}
+--- !u!1 &3706578038374431429
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2634789328866905650}
+  m_Layer: 0
+  m_Name: Night_vision_goggles (3)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2634789328866905650
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3706578038374431429}
+  serializedVersion: 2
+  m_LocalRotation: {x: -6.211587e-17, y: 0.014534309, z: -6.0335924e-17, w: 0.9998944}
+  m_LocalPosition: {x: 0.19508386, y: 0.1374073, z: 0.5799999}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2678613025875484178}
+  m_LocalEulerAnglesHint: {x: 0, y: 1.666, z: 0}
+--- !u!1 &3781085723361487553
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2678613025875484178}
+  - component: {fileID: 1649509678377736559}
+  - component: {fileID: 7381254195676566276}
+  - component: {fileID: 7897170445991187216}
+  m_Layer: 0
+  m_Name: 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2678613025875484178
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3781085723361487553}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.95, y: 2.21, z: 8.03}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3368309246296985083}
+  - {fileID: 9170059811345669910}
+  - {fileID: 1520961042195388184}
+  - {fileID: 2634789328866905650}
+  - {fileID: 4192452333294090182}
+  - {fileID: 6867101554140183058}
+  - {fileID: 9042950420396619945}
+  - {fileID: 4597532756786389006}
+  - {fileID: 659164499737733732}
+  - {fileID: 2524528243308862016}
+  - {fileID: 6232304840489371438}
+  - {fileID: 8986828257087369312}
+  - {fileID: 4638204361257463697}
+  - {fileID: 5165070428090445043}
+  m_Father: {fileID: 9186924672811354902}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1649509678377736559
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3781085723361487553}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 7, y: 5, z: 5}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &7381254195676566276
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3781085723361487553}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c317bb39ec959ab45b894b02c48ae2f9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _shelfItemSpawned: {fileID: 7897170445991187216}
+  _moveDuration: 0.5
+--- !u!114 &7897170445991187216
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3781085723361487553}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9b324728f7662449a0770216592e138, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _shelfIndex: 0
+  _spawnPoints:
+  - {fileID: 3368309246296985083}
+  - {fileID: 9170059811345669910}
+  - {fileID: 1520961042195388184}
+  - {fileID: 2634789328866905650}
+  - {fileID: 4192452333294090182}
+  - {fileID: 6867101554140183058}
+  - {fileID: 9042950420396619945}
+  - {fileID: 4597532756786389006}
+  - {fileID: 659164499737733732}
+  - {fileID: 2524528243308862016}
+  - {fileID: 6232304840489371438}
+  - {fileID: 8986828257087369312}
+  - {fileID: 4638204361257463697}
+  - {fileID: 5165070428090445043}
+--- !u!1 &4052300913920595546
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4755205909743507576}
+  m_Layer: 0
+  m_Name: Hypnotic_glasses (3)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4755205909743507576
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4052300913920595546}
+  serializedVersion: 2
+  m_LocalRotation: {x: -6.324858e-17, y: 0.03348802, z: -5.914746e-17, w: 0.9994391}
+  m_LocalPosition: {x: 0.95508385, y: 0.10580635, z: 0.50307465}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6569673314940792692}
+  m_LocalEulerAnglesHint: {x: 0, y: -356.162, z: 0}
+--- !u!1 &4062732975656728221
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6214692255417296703}
+  - component: {fileID: 5008031788301086803}
+  - component: {fileID: 1959234212642568292}
+  - component: {fileID: 670025435266948999}
+  m_Layer: 0
+  m_Name: 4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6214692255417296703
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4062732975656728221}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0.9999961, z: -0, w: -0.0027869937}
+  m_LocalPosition: {x: 19.429834, y: 2.21, z: -8.760403}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3068415665064867054}
+  - {fileID: 8361094313956884625}
+  - {fileID: 1874298659805390762}
+  - {fileID: 1035938210484998017}
+  - {fileID: 8359203655641782313}
+  - {fileID: 9217224738386139988}
+  - {fileID: 3704607624455367747}
+  - {fileID: 8176865638577805857}
+  - {fileID: 9028223387932551884}
+  - {fileID: 7083502361574240465}
+  - {fileID: 4038337963087409747}
+  - {fileID: 8028170915901514621}
+  - {fileID: 8356244434391758914}
+  - {fileID: 1989251897246336598}
+  m_Father: {fileID: 9186924672811354902}
+  m_LocalEulerAnglesHint: {x: 0, y: -180.319, z: 0}
+--- !u!65 &5008031788301086803
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4062732975656728221}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 7, y: 5, z: 5}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &1959234212642568292
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4062732975656728221}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c317bb39ec959ab45b894b02c48ae2f9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _shelfItemSpawned: {fileID: 670025435266948999}
+  _moveDuration: 0.5
+--- !u!114 &670025435266948999
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4062732975656728221}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9b324728f7662449a0770216592e138, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _shelfIndex: 3
+  _spawnPoints:
+  - {fileID: 3068415665064867054}
+  - {fileID: 8361094313956884625}
+  - {fileID: 1874298659805390762}
+  - {fileID: 1035938210484998017}
+  - {fileID: 8359203655641782313}
+  - {fileID: 9217224738386139988}
+  - {fileID: 3704607624455367747}
+  - {fileID: 8176865638577805857}
+  - {fileID: 9028223387932551884}
+  - {fileID: 7083502361574240465}
+  - {fileID: 4038337963087409747}
+  - {fileID: 8028170915901514621}
+  - {fileID: 8356244434391758914}
+  - {fileID: 1989251897246336598}
+--- !u!1 &4343651028902852918
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5458961977154839278}
+  m_Layer: 0
+  m_Name: Hypnotic_glasses (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5458961977154839278
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4343651028902852918}
+  serializedVersion: 2
+  m_LocalRotation: {x: -6.324858e-17, y: 0.03348802, z: -5.914746e-17, w: 0.9994391}
+  m_LocalPosition: {x: -1.1149158, y: 0.10580635, z: 0.50307465}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6569673314940792692}
+  m_LocalEulerAnglesHint: {x: 0, y: -356.162, z: 0}
+--- !u!1 &4367469337531123988
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1520961042195388184}
+  m_Layer: 0
+  m_Name: Night_vision_goggles (2)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1520961042195388184
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4367469337531123988}
+  serializedVersion: 2
+  m_LocalRotation: {x: -6.211587e-17, y: 0.014534309, z: -6.0335924e-17, w: 0.9998944}
+  m_LocalPosition: {x: -1.174916, y: 0.1374073, z: 0.5799999}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2678613025875484178}
+  m_LocalEulerAnglesHint: {x: 0, y: 1.666, z: 0}
+--- !u!1 &4446289016001721507
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8361094313956884625}
+  m_Layer: 0
+  m_Name: Glasses_hearts (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8361094313956884625
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4446289016001721507}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.140276e-17, y: -0.0027869937, z: 6.106145e-17, w: -0.9999961}
+  m_LocalPosition: {x: -1.1922853, y: 0.10092068, z: 0.53511935}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6214692255417296703}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4570729325295387650
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8986828257087369312}
+  m_Layer: 0
+  m_Name: Night_vision_goggles (11)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8986828257087369312
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4570729325295387650}
+  serializedVersion: 2
+  m_LocalRotation: {x: -6.211587e-17, y: 0.014534309, z: -6.0335924e-17, w: 0.9998944}
+  m_LocalPosition: {x: 1.2250836, y: 3.1252937, z: 0.5799999}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2678613025875484178}
+  m_LocalEulerAnglesHint: {x: 0, y: 1.666, z: 0}
+--- !u!1 &4573516571215089325
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8176865638577805857}
+  m_Layer: 0
+  m_Name: Glasses_hearts (7)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8176865638577805857
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4573516571215089325}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.140276e-17, y: -0.0027869937, z: 6.106145e-17, w: -0.9999961}
+  m_LocalPosition: {x: -2.210088, y: 3.0912943, z: 0.5407926}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6214692255417296703}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4614617510769095443
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3992132311506308210}
+  m_Layer: 0
+  m_Name: Glasses_with_nose (9)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3992132311506308210
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4614617510769095443}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.271111e-17, y: -0.024448482, z: 5.9717034e-17, w: -0.99970114}
+  m_LocalPosition: {x: -3.3400002, y: 3.2552938, z: 0.395051}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 9151895051698059012}
+  m_LocalEulerAnglesHint: {x: 0, y: 2.802, z: 0}
+--- !u!1 &4667476065246770166
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1035938210484998017}
+  m_Layer: 0
+  m_Name: Glasses_hearts (3)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1035938210484998017
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4667476065246770166}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.140276e-17, y: -0.0027869937, z: 6.106145e-17, w: -0.9999961}
+  m_LocalPosition: {x: 0.9176825, y: 0.10092068, z: 0.5233582}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6214692255417296703}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4761194790494746776
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3368309246296985083}
+  m_Layer: 0
+  m_Name: Night_vision_goggles (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3368309246296985083
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4761194790494746776}
+  serializedVersion: 2
+  m_LocalRotation: {x: -6.211587e-17, y: 0.014534309, z: -6.0335924e-17, w: 0.9998944}
+  m_LocalPosition: {x: -2.0449169, y: 0.1374073, z: 0.5799999}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2678613025875484178}
+  m_LocalEulerAnglesHint: {x: 0, y: 1.666, z: 0}
+--- !u!1 &4818557028392293753
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5901446984229406137}
+  m_Layer: 0
+  m_Name: Hypnotic_glasses (5)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5901446984229406137
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4818557028392293753}
+  serializedVersion: 2
+  m_LocalRotation: {x: -6.324858e-17, y: 0.03348802, z: -5.914746e-17, w: 0.9994391}
+  m_LocalPosition: {x: 2.9550838, y: 0.10580635, z: 0.50307465}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6569673314940792692}
+  m_LocalEulerAnglesHint: {x: 0, y: -356.162, z: 0}
+--- !u!1 &4885229040193514319
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7646238829644650736}
+  m_Layer: 0
+  m_Name: Glasses_09 (2)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7646238829644650736
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4885229040193514319}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.140276e-17, y: -0.0027869937, z: 6.106145e-17, w: -0.9999961}
+  m_LocalPosition: {x: -1.011614, y: 0.08260155, z: 0.6255796}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3715521128708924181}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4969269597387816380
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3715521128708924181}
+  - component: {fileID: 2271009225932386186}
+  - component: {fileID: 7134059639333567951}
+  - component: {fileID: 1018165288412440670}
+  m_Layer: 0
+  m_Name: 5
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3715521128708924181
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4969269597387816380}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0.9999961, z: -0, w: -0.0027869937}
+  m_LocalPosition: {x: 8.809999, y: 2.21, z: -8.81961}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1373001311861249066}
+  - {fileID: 434563585184441961}
+  - {fileID: 7646238829644650736}
+  - {fileID: 4521936789029140925}
+  - {fileID: 205479376370455632}
+  - {fileID: 2178161709213134155}
+  - {fileID: 4709618986294213398}
+  - {fileID: 3460776099379523675}
+  - {fileID: 3534193956198529983}
+  - {fileID: 2232953732833222069}
+  - {fileID: 7809564687912736824}
+  - {fileID: 6651014677860732405}
+  - {fileID: 2827823371077165224}
+  - {fileID: 2034275209637646025}
+  m_Father: {fileID: 9186924672811354902}
+  m_LocalEulerAnglesHint: {x: 0, y: -180.319, z: 0}
+--- !u!65 &2271009225932386186
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4969269597387816380}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 7, y: 5, z: 5}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &7134059639333567951
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4969269597387816380}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c317bb39ec959ab45b894b02c48ae2f9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _shelfItemSpawned: {fileID: 1018165288412440670}
+  _moveDuration: 0.5
+--- !u!114 &1018165288412440670
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4969269597387816380}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9b324728f7662449a0770216592e138, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _shelfIndex: 4
+  _spawnPoints:
+  - {fileID: 1373001311861249066}
+  - {fileID: 434563585184441961}
+  - {fileID: 7646238829644650736}
+  - {fileID: 4521936789029140925}
+  - {fileID: 205479376370455632}
+  - {fileID: 2178161709213134155}
+  - {fileID: 4709618986294213398}
+  - {fileID: 3460776099379523675}
+  - {fileID: 3534193956198529983}
+  - {fileID: 2232953732833222069}
+  - {fileID: 7809564687912736824}
+  - {fileID: 6651014677860732405}
+  - {fileID: 2827823371077165224}
+  - {fileID: 2034275209637646025}
+--- !u!1 &4999526221847555054
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6232304840489371438}
+  m_Layer: 0
+  m_Name: Night_vision_goggles (10)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6232304840489371438
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4999526221847555054}
+  serializedVersion: 2
+  m_LocalRotation: {x: -6.211587e-17, y: 0.014534309, z: -6.0335924e-17, w: 0.9998944}
+  m_LocalPosition: {x: 0.19508386, y: 3.1252937, z: 0.5799999}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2678613025875484178}
+  m_LocalEulerAnglesHint: {x: 0, y: 1.666, z: 0}
+--- !u!1 &5048253259052491499
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6131069937437602343}
+  m_Layer: 0
+  m_Name: Eyelash_glasses (10)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6131069937437602343
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5048253259052491499}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.140276e-17, y: -0.0027869937, z: 6.106145e-17, w: -0.9999961}
+  m_LocalPosition: {x: -0.04279322, y: 3.175294, z: 0.3806432}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4697331055388226517}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5181835637655149393
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1989251897246336598}
+  m_Layer: 0
+  m_Name: Glasses_hearts (13)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1989251897246336598
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5181835637655149393}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.140276e-17, y: -0.0027869937, z: 6.106145e-17, w: -0.9999961}
+  m_LocalPosition: {x: 3.64764, y: 3.0912943, z: 0.50814134}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6214692255417296703}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5250785544381320934
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4200243567870267067}
+  m_Layer: 0
+  m_Name: Glasses_with_nose (2)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4200243567870267067
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5250785544381320934}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.271111e-17, y: -0.024448482, z: 5.9717034e-17, w: -0.99970114}
+  m_LocalPosition: {x: -2.5749168, y: 0.2652588, z: 0.395051}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 9151895051698059012}
+  m_LocalEulerAnglesHint: {x: 0, y: 2.802, z: 0}
+--- !u!1 &5366982090529534212
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3704607624455367747}
+  m_Layer: 0
+  m_Name: Glasses_hearts (6)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3704607624455367747
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5366982090529534212}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.140276e-17, y: -0.0027869937, z: 6.106145e-17, w: -0.9999961}
+  m_LocalPosition: {x: 3.64764, y: 0.10092068, z: 0.50814134}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6214692255417296703}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5384978046038696534
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7902542803150492701}
+  m_Layer: 0
+  m_Name: '[LevelLogic]'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7902542803150492701
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5384978046038696534}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3745936859201636388}
+  - {fileID: 7716176961881792622}
+  - {fileID: 9186924672811354902}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5428053944120940470
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3221083580945870682}
+  m_Layer: 0
+  m_Name: Hypnotic_glasses (8)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3221083580945870682
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5428053944120940470}
+  serializedVersion: 2
+  m_LocalRotation: {x: -6.324858e-17, y: 0.03348802, z: -5.914746e-17, w: 0.9994391}
+  m_LocalPosition: {x: -1.1149158, y: 3.1552944, z: 0.50307465}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6569673314940792692}
+  m_LocalEulerAnglesHint: {x: 0, y: -356.162, z: 0}
+--- !u!1 &5498643418206903627
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2034275209637646025}
+  m_Layer: 0
+  m_Name: Glasses_09 (13)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2034275209637646025
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5498643418206903627}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.140276e-17, y: -0.0027869937, z: 6.106145e-17, w: -0.9999961}
+  m_LocalPosition: {x: 3.1483223, y: 3.1252937, z: 0.6023919}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3715521128708924181}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5520035440267686078
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4709618986294213398}
+  m_Layer: 0
+  m_Name: Glasses_09 (6)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4709618986294213398
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5520035440267686078}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.140276e-17, y: -0.0027869937, z: 6.106145e-17, w: -0.9999961}
+  m_LocalPosition: {x: 3.1483223, y: 0.08260155, z: 0.6023919}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3715521128708924181}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5551492985554055320
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6867101554140183058}
+  m_Layer: 0
+  m_Name: Night_vision_goggles (5)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6867101554140183058
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5551492985554055320}
+  serializedVersion: 2
+  m_LocalRotation: {x: -6.211587e-17, y: 0.014534309, z: -6.0335924e-17, w: 0.9998944}
+  m_LocalPosition: {x: 2.285084, y: 0.1374073, z: 0.5799999}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2678613025875484178}
+  m_LocalEulerAnglesHint: {x: 0, y: 1.666, z: 0}
+--- !u!1 &5616148097964788760
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4638204361257463697}
+  m_Layer: 0
+  m_Name: Night_vision_goggles (12)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4638204361257463697
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5616148097964788760}
+  serializedVersion: 2
+  m_LocalRotation: {x: -6.211587e-17, y: 0.014534309, z: -6.0335924e-17, w: 0.9998944}
+  m_LocalPosition: {x: 2.285084, y: 3.1252937, z: 0.5799999}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2678613025875484178}
+  m_LocalEulerAnglesHint: {x: 0, y: 1.666, z: 0}
+--- !u!1 &5740824656431966437
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9028223387932551884}
+  m_Layer: 0
+  m_Name: Glasses_hearts (8)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9028223387932551884
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5740824656431966437}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.140276e-17, y: -0.0027869937, z: 6.106145e-17, w: -0.9999961}
+  m_LocalPosition: {x: -1.1922853, y: 3.0912943, z: 0.53511935}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6214692255417296703}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5819846614934161697
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9186924672811354902}
+  m_Layer: 0
+  m_Name: Shelfs
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9186924672811354902
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5819846614934161697}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 10, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2678613025875484178}
+  - {fileID: 6569673314940792692}
+  - {fileID: 9151895051698059012}
+  - {fileID: 6214692255417296703}
+  - {fileID: 3715521128708924181}
+  - {fileID: 4697331055388226517}
+  m_Father: {fileID: 7902542803150492701}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5826504541017190114
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8914774531842938290}
+  m_Layer: 0
+  m_Name: Glasses_with_nose (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8914774531842938290
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5826504541017190114}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.271111e-17, y: -0.024448482, z: 5.9717034e-17, w: -0.99970114}
+  m_LocalPosition: {x: -3.3400002, y: 0.2652588, z: 0.395051}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 9151895051698059012}
+  m_LocalEulerAnglesHint: {x: 0, y: 2.802, z: 0}
+--- !u!1 &6000271551161885609
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8859157111071358643}
+  m_Layer: 0
+  m_Name: Glasses_with_nose (4)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8859157111071358643
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6000271551161885609}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.271111e-17, y: -0.024448482, z: 5.9717034e-17, w: -0.99970114}
+  m_LocalPosition: {x: -0.65491676, y: 0.2652588, z: 0.395051}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 9151895051698059012}
+  m_LocalEulerAnglesHint: {x: 0, y: 2.802, z: 0}
+--- !u!1 &6023419763636483345
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5368768136969769792}
+  m_Layer: 0
+  m_Name: Hypnotic_glasses (6)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5368768136969769792
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6023419763636483345}
+  serializedVersion: 2
+  m_LocalRotation: {x: -6.324858e-17, y: 0.03348802, z: -5.914746e-17, w: 0.9994391}
+  m_LocalPosition: {x: -2.9849167, y: 0.10580635, z: 0.50307465}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6569673314940792692}
+  m_LocalEulerAnglesHint: {x: 0, y: -356.162, z: 0}
+--- !u!1 &6136666572651943942
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1681809503843687314}
+  m_Layer: 0
+  m_Name: Glasses_with_nose (3)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1681809503843687314
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6136666572651943942}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.271111e-17, y: -0.024448482, z: 5.9717034e-17, w: -0.99970114}
+  m_LocalPosition: {x: -1.7149162, y: 0.2652588, z: 0.395051}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 9151895051698059012}
+  m_LocalEulerAnglesHint: {x: 0, y: 2.802, z: 0}
+--- !u!1 &6153759185953929520
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8766649639587661080}
+  m_Layer: 0
+  m_Name: Eyelash_glasses (6)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8766649639587661080
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6153759185953929520}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.140276e-17, y: -0.0027869937, z: 6.106145e-17, w: -0.9999961}
+  m_LocalPosition: {x: 2.94716, y: 0.08830166, z: 0.36397704}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4697331055388226517}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6247710138669931416
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4013462026431655600}
+  m_Layer: 0
+  m_Name: Eyelash_glasses (12)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4013462026431655600
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6247710138669931416}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.140276e-17, y: -0.0027869937, z: 6.106145e-17, w: -0.9999961}
+  m_LocalPosition: {x: 1.9171757, y: 3.175294, z: 0.36971822}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4697331055388226517}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6254790283892309132
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4038337963087409747}
+  m_Layer: 0
+  m_Name: Glasses_hearts (10)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4038337963087409747
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6254790283892309132}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.140276e-17, y: -0.0027869937, z: 6.106145e-17, w: -0.9999961}
+  m_LocalPosition: {x: 0.9176825, y: 3.0912943, z: 0.5233582}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6214692255417296703}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6446409280501274678
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5505075031979706448}
+  m_Layer: 0
+  m_Name: Eyelash_glasses
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5505075031979706448
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6446409280501274678}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.140276e-17, y: -0.0027869937, z: 6.106145e-17, w: -0.9999961}
+  m_LocalPosition: {x: -2.8876655, y: 0.08830166, z: 0.39650068}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4697331055388226517}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6452915126274518742
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7602501855613883869}
+  m_Layer: 0
+  m_Name: Hypnotic_glasses (10)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7602501855613883869
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6452915126274518742}
+  serializedVersion: 2
+  m_LocalRotation: {x: -6.324858e-17, y: 0.03348802, z: -5.914746e-17, w: 0.9994391}
+  m_LocalPosition: {x: -0.024915695, y: 3.1552944, z: 0.50307465}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6569673314940792692}
+  m_LocalEulerAnglesHint: {x: 0, y: -356.162, z: 0}
+--- !u!1 &6519174103737110606
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1874298659805390762}
+  m_Layer: 0
+  m_Name: Glasses_hearts (2)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1874298659805390762
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6519174103737110606}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.140276e-17, y: -0.0027869937, z: 6.106145e-17, w: -0.9999961}
+  m_LocalPosition: {x: -0.20230095, y: 0.10092068, z: 0.5296011}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6214692255417296703}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6719853408023004098
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2587815325128662309}
+  m_Layer: 0
+  m_Name: Glasses_with_nose (12)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2587815325128662309
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6719853408023004098}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.271111e-17, y: -0.024448482, z: 5.9717034e-17, w: -0.99970114}
+  m_LocalPosition: {x: -0.65491676, y: 3.2552938, z: 0.395051}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 9151895051698059012}
+  m_LocalEulerAnglesHint: {x: 0, y: 2.802, z: 0}
+--- !u!1 &6900598662353337372
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4784620592857953656}
+  m_Layer: 0
+  m_Name: Hypnotic_glasses (11)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4784620592857953656
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6900598662353337372}
+  serializedVersion: 2
+  m_LocalRotation: {x: -6.324858e-17, y: 0.03348802, z: -5.914746e-17, w: 0.9994391}
+  m_LocalPosition: {x: 0.95508385, y: 3.1552944, z: 0.50307465}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6569673314940792692}
+  m_LocalEulerAnglesHint: {x: 0, y: -356.162, z: 0}
+--- !u!1 &7001668976540361220
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6569673314940792692}
+  - component: {fileID: 3824312082665678007}
+  - component: {fileID: 561679666396426284}
+  - component: {fileID: 7012141642188624170}
+  m_Layer: 0
+  m_Name: 2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6569673314940792692
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7001668976540361220}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 8.67, y: 2.21, z: 8.03}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2370765179993113989}
+  - {fileID: 5458961977154839278}
+  - {fileID: 5368768136969769792}
+  - {fileID: 4548038902041029432}
+  - {fileID: 4755205909743507576}
+  - {fileID: 2028106049858295312}
+  - {fileID: 5901446984229406137}
+  - {fileID: 2842458781602619113}
+  - {fileID: 3221083580945870682}
+  - {fileID: 5745952134416509527}
+  - {fileID: 7602501855613883869}
+  - {fileID: 4784620592857953656}
+  - {fileID: 582667702794130367}
+  - {fileID: 2886786337144220853}
+  m_Father: {fileID: 9186924672811354902}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &3824312082665678007
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7001668976540361220}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 7, y: 5, z: 5}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &561679666396426284
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7001668976540361220}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c317bb39ec959ab45b894b02c48ae2f9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _shelfItemSpawned: {fileID: 7012141642188624170}
+  _moveDuration: 0.5
+--- !u!114 &7012141642188624170
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7001668976540361220}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9b324728f7662449a0770216592e138, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _shelfIndex: 1
+  _spawnPoints:
+  - {fileID: 2370765179993113989}
+  - {fileID: 5458961977154839278}
+  - {fileID: 5368768136969769792}
+  - {fileID: 4548038902041029432}
+  - {fileID: 4755205909743507576}
+  - {fileID: 2028106049858295312}
+  - {fileID: 5901446984229406137}
+  - {fileID: 2842458781602619113}
+  - {fileID: 3221083580945870682}
+  - {fileID: 5745952134416509527}
+  - {fileID: 7602501855613883869}
+  - {fileID: 4784620592857953656}
+  - {fileID: 582667702794130367}
+  - {fileID: 2886786337144220853}
+--- !u!1 &7047916801101513531
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3534193956198529983}
+  m_Layer: 0
+  m_Name: Glasses_09 (8)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3534193956198529983
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7047916801101513531}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.140276e-17, y: -0.0027869937, z: 6.106145e-17, w: -0.9999961}
+  m_LocalPosition: {x: -1.8515991, y: 3.1252937, z: 0.6302617}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3715521128708924181}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7190240578854233182
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8802244587687249401}
+  m_Layer: 0
+  m_Name: Eyelash_glasses (11)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8802244587687249401
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7190240578854233182}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.140276e-17, y: -0.0027869937, z: 6.106145e-17, w: -0.9999961}
+  m_LocalPosition: {x: 0.98719054, y: 3.175294, z: 0.374902}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4697331055388226517}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7245684253761891888
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2524528243308862016}
+  m_Layer: 0
+  m_Name: Night_vision_goggles (9)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2524528243308862016
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7245684253761891888}
+  serializedVersion: 2
+  m_LocalRotation: {x: -6.211587e-17, y: 0.014534309, z: -6.0335924e-17, w: 0.9998944}
+  m_LocalPosition: {x: -1.174916, y: 3.1252937, z: 0.5799999}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2678613025875484178}
+  m_LocalEulerAnglesHint: {x: 0, y: 1.666, z: 0}
+--- !u!1 &7319164536775831419
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4192452333294090182}
+  m_Layer: 0
+  m_Name: Night_vision_goggles (4)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4192452333294090182
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7319164536775831419}
+  serializedVersion: 2
+  m_LocalRotation: {x: -6.211587e-17, y: 0.014534309, z: -6.0335924e-17, w: 0.9998944}
+  m_LocalPosition: {x: 1.2250836, y: 0.1374073, z: 0.5799999}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2678613025875484178}
+  m_LocalEulerAnglesHint: {x: 0, y: 1.666, z: 0}
+--- !u!1 &7323726952473653197
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7083502361574240465}
+  m_Layer: 0
+  m_Name: Glasses_hearts (9)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7083502361574240465
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7323726952473653197}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.140276e-17, y: -0.0027869937, z: 6.106145e-17, w: -0.9999961}
+  m_LocalPosition: {x: -0.20230095, y: 3.0912943, z: 0.5296011}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6214692255417296703}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7338847730123338277
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3460776099379523675}
+  m_Layer: 0
+  m_Name: Glasses_09 (7)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3460776099379523675
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7338847730123338277}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.140276e-17, y: -0.0027869937, z: 6.106145e-17, w: -0.9999961}
+  m_LocalPosition: {x: -2.9651382, y: 3.1252937, z: 0.63646865}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3715521128708924181}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7386015069970269990
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2842458781602619113}
+  m_Layer: 0
+  m_Name: Hypnotic_glasses (7)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2842458781602619113
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7386015069970269990}
+  serializedVersion: 2
+  m_LocalRotation: {x: -6.324858e-17, y: 0.03348802, z: -5.914746e-17, w: 0.9994391}
+  m_LocalPosition: {x: -2.0749168, y: 3.1552944, z: 0.50307465}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6569673314940792692}
+  m_LocalEulerAnglesHint: {x: 0, y: -356.162, z: 0}
+--- !u!1 &7450018289517785627
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8645870593953647768}
+  m_Layer: 0
+  m_Name: Eyelash_glasses (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8645870593953647768
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7450018289517785627}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.140276e-17, y: -0.0027869937, z: 6.106145e-17, w: -0.9999961}
+  m_LocalPosition: {x: -1.8727657, y: 0.08830166, z: 0.39084357}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4697331055388226517}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7826327995794109447
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 205479376370455632}
+  m_Layer: 0
+  m_Name: Glasses_09 (4)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &205479376370455632
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7826327995794109447}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.140276e-17, y: -0.0027869937, z: 6.106145e-17, w: -0.9999961}
+  m_LocalPosition: {x: 0.87835795, y: 0.08260155, z: 0.61504483}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3715521128708924181}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7895159101176182753
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5425189179438715340}
+  m_Layer: 0
+  m_Name: Eyelash_glasses (4)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5425189179438715340
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7895159101176182753}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.140276e-17, y: -0.0027869937, z: 6.106145e-17, w: -0.9999961}
+  m_LocalPosition: {x: 0.98719054, y: 0.08830166, z: 0.374902}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4697331055388226517}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8027235552373935339
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1977772409535665759}
+  m_Layer: 0
+  m_Name: Glasses_with_nose (8)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1977772409535665759
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8027235552373935339}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.271111e-17, y: -0.024448482, z: 5.9717034e-17, w: -0.99970114}
+  m_LocalPosition: {x: -3.3400002, y: 3.2552938, z: 0.395051}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 9151895051698059012}
+  m_LocalEulerAnglesHint: {x: 0, y: 2.802, z: 0}
+--- !u!1 &8190353201676089918
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2028106049858295312}
+  m_Layer: 0
+  m_Name: Hypnotic_glasses (4)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2028106049858295312
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8190353201676089918}
+  serializedVersion: 2
+  m_LocalRotation: {x: -6.324858e-17, y: 0.03348802, z: -5.914746e-17, w: 0.9994391}
+  m_LocalPosition: {x: 1.8950844, y: 0.10580635, z: 0.50307465}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6569673314940792692}
+  m_LocalEulerAnglesHint: {x: 0, y: -356.162, z: 0}
+--- !u!1 &8296613070440333147
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5513459146080397068}
+  m_Layer: 0
+  m_Name: Eyelash_glasses (5)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5513459146080397068
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8296613070440333147}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.140276e-17, y: -0.0027869937, z: 6.106145e-17, w: -0.9999961}
+  m_LocalPosition: {x: 1.9171757, y: 0.08830166, z: 0.36971822}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4697331055388226517}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8552403799055593004
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8356244434391758914}
+  m_Layer: 0
+  m_Name: Glasses_hearts (12)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8356244434391758914
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8552403799055593004}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.140276e-17, y: -0.0027869937, z: 6.106145e-17, w: -0.9999961}
+  m_LocalPosition: {x: 2.9176514, y: 3.0912943, z: 0.5122103}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6214692255417296703}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8570818222046603530
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5009890426247865538}
+  m_Layer: 0
+  m_Name: Glasses_with_nose (7)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5009890426247865538
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8570818222046603530}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.271111e-17, y: -0.024448482, z: 5.9717034e-17, w: -0.99970114}
+  m_LocalPosition: {x: 2.6050835, y: 0.2652588, z: 0.395051}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 9151895051698059012}
+  m_LocalEulerAnglesHint: {x: 0, y: 2.802, z: 0}
+--- !u!1 &8715717020408716421
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9042950420396619945}
+  m_Layer: 0
+  m_Name: Night_vision_goggles (6)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9042950420396619945
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8715717020408716421}
+  serializedVersion: 2
+  m_LocalRotation: {x: -6.211587e-17, y: 0.014534309, z: -6.0335924e-17, w: 0.9998944}
+  m_LocalPosition: {x: 3.285084, y: 0.1374073, z: 0.5799999}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2678613025875484178}
+  m_LocalEulerAnglesHint: {x: 0, y: 1.666, z: 0}
+--- !u!1 &8985151144491849793
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2178161709213134155}
+  m_Layer: 0
+  m_Name: Glasses_09 (5)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2178161709213134155
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8985151144491849793}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.140276e-17, y: -0.0027869937, z: 6.106145e-17, w: -0.9999961}
+  m_LocalPosition: {x: 1.9083427, y: 0.08260155, z: 0.6093036}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3715521128708924181}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &9061759201807613713
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2370765179993113989}
+  m_Layer: 0
+  m_Name: Hypnotic_glasses
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2370765179993113989
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9061759201807613713}
+  serializedVersion: 2
+  m_LocalRotation: {x: -6.324858e-17, y: 0.03348802, z: -5.914746e-17, w: 0.9994391}
+  m_LocalPosition: {x: -2.0749168, y: 0.10580635, z: 0.50307465}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6569673314940792692}
+  m_LocalEulerAnglesHint: {x: 0, y: -356.162, z: 0}
+--- !u!1 &9066413392616479037
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8759097447417634355}
+  m_Layer: 0
+  m_Name: Eyelash_glasses (3)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8759097447417634355
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9066413392616479037}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.140276e-17, y: -0.0027869937, z: 6.106145e-17, w: -0.9999961}
+  m_LocalPosition: {x: -0.04279322, y: 0.08830166, z: 0.3806432}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4697331055388226517}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &448106266853742501
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7902542803150492701}
+    m_Modifications:
+    - target: {fileID: 1981883849058472943, guid: af7a26b2cf495f14182ff72daff9f20d, type: 3}
+      propertyPath: m_Name
+      value: 'GiveBox '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7864024191047432139, guid: af7a26b2cf495f14182ff72daff9f20d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -6.76
+      objectReference: {fileID: 0}
+    - target: {fileID: 7864024191047432139, guid: af7a26b2cf495f14182ff72daff9f20d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.95
+      objectReference: {fileID: 0}
+    - target: {fileID: 7864024191047432139, guid: af7a26b2cf495f14182ff72daff9f20d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -17.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 7864024191047432139, guid: af7a26b2cf495f14182ff72daff9f20d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7864024191047432139, guid: af7a26b2cf495f14182ff72daff9f20d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7864024191047432139, guid: af7a26b2cf495f14182ff72daff9f20d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7864024191047432139, guid: af7a26b2cf495f14182ff72daff9f20d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7864024191047432139, guid: af7a26b2cf495f14182ff72daff9f20d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7864024191047432139, guid: af7a26b2cf495f14182ff72daff9f20d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7864024191047432139, guid: af7a26b2cf495f14182ff72daff9f20d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: af7a26b2cf495f14182ff72daff9f20d, type: 3}
+--- !u!4 &7716176961881792622 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7864024191047432139, guid: af7a26b2cf495f14182ff72daff9f20d, type: 3}
+  m_PrefabInstance: {fileID: 448106266853742501}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2395551900261692286
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7902542803150492701}
+    m_Modifications:
+    - target: {fileID: 1351792890830764890, guid: 1e6c4423e11c2e54786291f5b737a26b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.34
+      objectReference: {fileID: 0}
+    - target: {fileID: 1351792890830764890, guid: 1e6c4423e11c2e54786291f5b737a26b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1351792890830764890, guid: 1e6c4423e11c2e54786291f5b737a26b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 1351792890830764890, guid: 1e6c4423e11c2e54786291f5b737a26b, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1351792890830764890, guid: 1e6c4423e11c2e54786291f5b737a26b, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1351792890830764890, guid: 1e6c4423e11c2e54786291f5b737a26b, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1351792890830764890, guid: 1e6c4423e11c2e54786291f5b737a26b, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1351792890830764890, guid: 1e6c4423e11c2e54786291f5b737a26b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1351792890830764890, guid: 1e6c4423e11c2e54786291f5b737a26b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1351792890830764890, guid: 1e6c4423e11c2e54786291f5b737a26b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7759742426305969764, guid: 1e6c4423e11c2e54786291f5b737a26b, type: 3}
+      propertyPath: m_Name
+      value: TakeBox
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1e6c4423e11c2e54786291f5b737a26b, type: 3}
+--- !u!4 &3745936859201636388 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1351792890830764890, guid: 1e6c4423e11c2e54786291f5b737a26b, type: 3}
+  m_PrefabInstance: {fileID: 2395551900261692286}
+  m_PrefabAsset: {fileID: 0}
